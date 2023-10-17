@@ -4,7 +4,7 @@
   <name>bunker_mini_description</name>
   <version>0.1.0</version>
   <description>The bunker_mini_description package</description>
-  <maintainer email="deluge2211@qq.com">Li Yongjiang</maintainer>
+  <maintainer email="deluge2211@qq.com">DDDeluge</maintainer>
   <license>Apache 2.0 License</license>
 
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
